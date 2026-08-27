@@ -1,0 +1,61 @@
+dataset,criterion,rank,feature_short,score
+BW,F-Score (ANOVA),1,wavelet-LH_glrlm_GrayLevelNonUniformityNormalized,31.86491804381393
+BW,F-Score (ANOVA),2,wavelet-LH_firstorder_Entropy,30.66776140916364
+BW,F-Score (ANOVA),3,wavelet-LH_firstorder_Uniformity,30.39705278029008
+BW,F-Score (ANOVA),4,wavelet-LH_glcm_SumEntropy,29.93223774891838
+BW,F-Score (ANOVA),5,wavelet-LH_glcm_JointEntropy,29.771130557551466
+BW,F-Score (ANOVA),6,wavelet-LL_firstorder_10Percentile,28.48383101096885
+BW,F-Score (ANOVA),7,wavelet-LH_glrlm_ShortRunEmphasis,28.374035970390267
+BW,F-Score (ANOVA),8,original_firstorder_10Percentile,28.330872977577098
+BW,F-Score (ANOVA),9,wavelet-LL_ngtdm_Coarseness,28.12433861337352
+BW,F-Score (ANOVA),10,wavelet-LH_glcm_ClusterTendency,27.926709403872486
+BW,Mutual Information,1,wavelet-LH_gldm_LargeDependenceEmphasis,0.2101425996659005
+BW,Mutual Information,2,wavelet-LH_glrlm_RunPercentage,0.1779246345546246
+BW,Mutual Information,3,wavelet-LH_glszm_LargeAreaHighGrayLevelEmphasis,0.1709509045824966
+BW,Mutual Information,4,wavelet-LH_glcm_Idm,0.1543751117664855
+BW,Mutual Information,5,wavelet-LH_glcm_Id,0.152409177410385
+BW,Mutual Information,6,wavelet-HH_glszm_SmallAreaLowGrayLevelEmphasis,0.1490655246606085
+BW,Mutual Information,7,wavelet-LH_glrlm_RunLengthNonUniformityNormalized,0.1482504891803979
+BW,Mutual Information,8,wavelet-HH_glrlm_LongRunLowGrayLevelEmphasis,0.1473833840691034
+BW,Mutual Information,9,wavelet-LL_gldm_DependenceEntropy,0.1453562246668902
+BW,Mutual Information,10,wavelet-HH_glrlm_ShortRunLowGrayLevelEmphasis,0.1396499512496616
+BW+Doppler,F-Score (ANOVA),1,[D] wavelet-LL_gldm_DependenceEntropy,45.52193909769152
+BW+Doppler,F-Score (ANOVA),2,[D] wavelet-LH_glszm_SmallAreaEmphasis,38.736430335888144
+BW+Doppler,F-Score (ANOVA),3,[D] wavelet-LH_glszm_SizeZoneNonUniformityNormalized,36.66439692467097
+BW+Doppler,F-Score (ANOVA),4,[D] wavelet-HL_glrlm_RunEntropy,34.84019744314761
+BW+Doppler,F-Score (ANOVA),5,[BW] wavelet-LH_glrlm_GrayLevelNonUniformityNormalized,31.86491804381393
+BW+Doppler,F-Score (ANOVA),6,[D] wavelet-LL_ngtdm_Coarseness,31.609256904697776
+BW+Doppler,F-Score (ANOVA),7,[BW] wavelet-LH_firstorder_Entropy,30.667761409163507
+BW+Doppler,F-Score (ANOVA),8,[D] wavelet-LH_glcm_ClusterTendency,30.58080517508696
+BW+Doppler,F-Score (ANOVA),9,[BW] wavelet-LH_firstorder_Uniformity,30.39705278029008
+BW+Doppler,F-Score (ANOVA),10,[BW] wavelet-LH_glcm_SumEntropy,29.932237748918165
+BW+Doppler,Mutual Information,1,[BW] wavelet-LH_gldm_LargeDependenceEmphasis,0.2101425996659005
+BW+Doppler,Mutual Information,2,[BW] wavelet-LH_glrlm_RunPercentage,0.1779246345546246
+BW+Doppler,Mutual Information,3,[BW] wavelet-LH_glszm_LargeAreaHighGrayLevelEmphasis,0.1709509045824966
+BW+Doppler,Mutual Information,4,[D] wavelet-LH_glrlm_GrayLevelNonUniformityNormalized,0.1560068592504899
+BW+Doppler,Mutual Information,5,[BW] wavelet-LH_glcm_Idm,0.1543751117664855
+BW+Doppler,Mutual Information,6,[BW] wavelet-LH_glcm_Id,0.152409177410385
+BW+Doppler,Mutual Information,7,[BW] wavelet-HH_glszm_SmallAreaLowGrayLevelEmphasis,0.1490655246606085
+BW+Doppler,Mutual Information,8,[D] wavelet-HH_gldm_LargeDependenceHighGrayLevelEmphasis,0.1483857685448049
+BW+Doppler,Mutual Information,9,[BW] wavelet-LH_glrlm_RunLengthNonUniformityNormalized,0.1482504891803979
+BW+Doppler,Mutual Information,10,[BW] wavelet-HH_glrlm_LongRunLowGrayLevelEmphasis,0.1473833840691034
+Doppler,F-Score (ANOVA),1,wavelet-LL_gldm_DependenceEntropy,45.52193909769152
+Doppler,F-Score (ANOVA),2,wavelet-LH_glszm_SmallAreaEmphasis,38.736430335888144
+Doppler,F-Score (ANOVA),3,wavelet-LH_glszm_SizeZoneNonUniformityNormalized,36.66439692467097
+Doppler,F-Score (ANOVA),4,wavelet-HL_glrlm_RunEntropy,34.84019744314761
+Doppler,F-Score (ANOVA),5,wavelet-LL_ngtdm_Coarseness,31.609256904697776
+Doppler,F-Score (ANOVA),6,wavelet-LH_glcm_ClusterTendency,30.58080517508696
+Doppler,F-Score (ANOVA),7,wavelet-LH_firstorder_Uniformity,28.798329239317614
+Doppler,F-Score (ANOVA),8,wavelet-LH_firstorder_Entropy,28.292055503118664
+Doppler,F-Score (ANOVA),9,wavelet-LH_firstorder_90Percentile,27.44377090062705
+Doppler,F-Score (ANOVA),10,wavelet-LH_glcm_SumEntropy,27.244307245297367
+Doppler,Mutual Information,1,wavelet-LH_glrlm_GrayLevelNonUniformityNormalized,0.1560068592504899
+Doppler,Mutual Information,2,wavelet-HH_gldm_LargeDependenceHighGrayLevelEmphasis,0.1483857685448049
+Doppler,Mutual Information,3,wavelet-HH_glcm_MaximumProbability,0.1432642517221292
+Doppler,Mutual Information,4,wavelet-LH_gldm_GrayLevelVariance,0.1389959000670275
+Doppler,Mutual Information,5,wavelet-LL_glcm_Idmn,0.1352897203303567
+Doppler,Mutual Information,6,wavelet-LL_glcm_SumAverage,0.134096875730064
+Doppler,Mutual Information,7,wavelet-LL_glcm_JointAverage,0.134096875730064
+Doppler,Mutual Information,8,wavelet-HH_gldm_DependenceNonUniformity,0.1254003212622294
+Doppler,Mutual Information,9,wavelet-LH_firstorder_90Percentile,0.1248067654579003
+Doppler,Mutual Information,10,wavelet-HH_gldm_DependenceNonUniformityNormalized,0.1241326906406661

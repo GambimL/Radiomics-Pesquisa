@@ -1,0 +1,97 @@
+dx,label,n_images,n_correct,accuracy,dataset,trilha,model,threshold
+CYST,BENIGN,6,6,1.0,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+LIPOMA,BENIGN,4,4,1.0,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+SCHWANOMA,BENIGN,1,1,1.0,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,1,1.0,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+AK,MALIGNANT,1,0,0.0,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+BCC,MALIGNANT,3,2,0.6666666666666666,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+SCC,MALIGNANT,3,3,1.0,BW,Trilha A,Coarse Gaussian SVM,thr=0.5
+CYST,BENIGN,6,6,1.0,BW,Trilha A,Coarse Gaussian SVM,Youden
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW,Trilha A,Coarse Gaussian SVM,Youden
+LIPOMA,BENIGN,4,4,1.0,BW,Trilha A,Coarse Gaussian SVM,Youden
+SCHWANOMA,BENIGN,1,1,1.0,BW,Trilha A,Coarse Gaussian SVM,Youden
+SEBORRHEIC KERATOSIS,BENIGN,1,1,1.0,BW,Trilha A,Coarse Gaussian SVM,Youden
+AK,MALIGNANT,1,0,0.0,BW,Trilha A,Coarse Gaussian SVM,Youden
+BCC,MALIGNANT,3,2,0.6666666666666666,BW,Trilha A,Coarse Gaussian SVM,Youden
+SCC,MALIGNANT,3,3,1.0,BW,Trilha A,Coarse Gaussian SVM,Youden
+CYST,BENIGN,6,6,1.0,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+LIPOMA,BENIGN,4,4,1.0,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+SCHWANOMA,BENIGN,1,1,1.0,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,1,1.0,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+AK,MALIGNANT,1,0,0.0,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+BCC,MALIGNANT,3,2,0.6666666666666666,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+SCC,MALIGNANT,3,3,1.0,Doppler,Trilha A,Subspace Discriminant,thr=0.5
+INTRADERMAL NEVUS,BENIGN,1,0,0.0,Doppler,Trilha A,Subspace Discriminant,Youden
+SEBORRHEIC KERATOSIS,BENIGN,1,0,0.0,Doppler,Trilha A,Subspace Discriminant,Youden
+LIPOMA,BENIGN,4,3,0.75,Doppler,Trilha A,Subspace Discriminant,Youden
+CYST,BENIGN,6,5,0.8333333333333334,Doppler,Trilha A,Subspace Discriminant,Youden
+SCHWANOMA,BENIGN,1,1,1.0,Doppler,Trilha A,Subspace Discriminant,Youden
+AK,MALIGNANT,1,1,1.0,Doppler,Trilha A,Subspace Discriminant,Youden
+BCC,MALIGNANT,3,3,1.0,Doppler,Trilha A,Subspace Discriminant,Youden
+SCC,MALIGNANT,3,3,1.0,Doppler,Trilha A,Subspace Discriminant,Youden
+CYST,BENIGN,6,6,1.0,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+LIPOMA,BENIGN,4,4,1.0,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+SCHWANOMA,BENIGN,1,1,1.0,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,1,1.0,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+AK,MALIGNANT,1,0,0.0,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+BCC,MALIGNANT,3,2,0.6666666666666666,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+SCC,MALIGNANT,3,3,1.0,BW+Doppler,Trilha A,Subspace Discriminant,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,0,0.0,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+CYST,BENIGN,6,5,0.8333333333333334,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+LIPOMA,BENIGN,4,4,1.0,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+SCHWANOMA,BENIGN,1,1,1.0,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+AK,MALIGNANT,1,0,0.0,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+BCC,MALIGNANT,3,2,0.6666666666666666,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+SCC,MALIGNANT,3,3,1.0,BW+Doppler,Trilha A,Subspace Discriminant,Youden
+CYST,BENIGN,6,6,1.0,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+LIPOMA,BENIGN,4,4,1.0,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+SCHWANOMA,BENIGN,1,1,1.0,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,1,1.0,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+AK,MALIGNANT,1,0,0.0,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+BCC,MALIGNANT,3,1,0.3333333333333333,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+SCC,MALIGNANT,3,3,1.0,BW,Trilha B,Medium Gaussian SVM,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,0,0.0,BW,Trilha B,Medium Gaussian SVM,Youden
+CYST,BENIGN,6,6,1.0,BW,Trilha B,Medium Gaussian SVM,Youden
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW,Trilha B,Medium Gaussian SVM,Youden
+LIPOMA,BENIGN,4,4,1.0,BW,Trilha B,Medium Gaussian SVM,Youden
+SCHWANOMA,BENIGN,1,1,1.0,BW,Trilha B,Medium Gaussian SVM,Youden
+AK,MALIGNANT,1,0,0.0,BW,Trilha B,Medium Gaussian SVM,Youden
+BCC,MALIGNANT,3,2,0.6666666666666666,BW,Trilha B,Medium Gaussian SVM,Youden
+SCC,MALIGNANT,3,3,1.0,BW,Trilha B,Medium Gaussian SVM,Youden
+SEBORRHEIC KERATOSIS,BENIGN,1,0,0.0,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+CYST,BENIGN,6,6,1.0,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+LIPOMA,BENIGN,4,4,1.0,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+SCHWANOMA,BENIGN,1,1,1.0,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+AK,MALIGNANT,1,0,0.0,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+BCC,MALIGNANT,3,1,0.3333333333333333,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+SCC,MALIGNANT,3,3,1.0,Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+CYST,BENIGN,6,6,1.0,Doppler,Trilha B,Medium Gaussian SVM,Youden
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,Doppler,Trilha B,Medium Gaussian SVM,Youden
+LIPOMA,BENIGN,4,4,1.0,Doppler,Trilha B,Medium Gaussian SVM,Youden
+SCHWANOMA,BENIGN,1,1,1.0,Doppler,Trilha B,Medium Gaussian SVM,Youden
+SEBORRHEIC KERATOSIS,BENIGN,1,1,1.0,Doppler,Trilha B,Medium Gaussian SVM,Youden
+AK,MALIGNANT,1,0,0.0,Doppler,Trilha B,Medium Gaussian SVM,Youden
+BCC,MALIGNANT,3,1,0.3333333333333333,Doppler,Trilha B,Medium Gaussian SVM,Youden
+SCC,MALIGNANT,3,3,1.0,Doppler,Trilha B,Medium Gaussian SVM,Youden
+CYST,BENIGN,6,6,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+LIPOMA,BENIGN,4,4,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+SCHWANOMA,BENIGN,1,1,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,1,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+AK,MALIGNANT,1,0,0.0,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+BCC,MALIGNANT,3,1,0.3333333333333333,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+SCC,MALIGNANT,3,3,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,thr=0.5
+SEBORRHEIC KERATOSIS,BENIGN,1,0,0.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden
+CYST,BENIGN,6,6,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden
+INTRADERMAL NEVUS,BENIGN,1,1,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden
+LIPOMA,BENIGN,4,4,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden
+SCHWANOMA,BENIGN,1,1,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden
+AK,MALIGNANT,1,1,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden
+BCC,MALIGNANT,3,3,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden
+SCC,MALIGNANT,3,3,1.0,BW+Doppler,Trilha B,Medium Gaussian SVM,Youden

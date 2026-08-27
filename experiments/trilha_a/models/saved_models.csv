@@ -1,0 +1,4 @@
+dataset,rank,model,file
+BW,1,Coarse Gaussian SVM,BW_1_Coarse_Gaussian_SVM.joblib
+Doppler,1,Subspace Discriminant,Doppler_1_Subspace_Discriminant.joblib
+BW+Doppler,1,Subspace Discriminant,BWplusDoppler_1_Subspace_Discriminant.joblib

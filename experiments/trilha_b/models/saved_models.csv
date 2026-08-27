@@ -1,0 +1,4 @@
+dataset,rank,model,file
+BW,1,Medium Gaussian SVM,BW_1_Medium_Gaussian_SVM.joblib
+Doppler,1,Medium Gaussian SVM,Doppler_1_Medium_Gaussian_SVM.joblib
+BW+Doppler,1,Medium Gaussian SVM,BWplusDoppler_1_Medium_Gaussian_SVM.joblib

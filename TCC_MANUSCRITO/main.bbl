@@ -1,0 +1,1074 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{Juan2023}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=fe136a98380eff59ee22885b2ffdf2e5}{%
+           family={Juan},
+           familyi={J\bibinitperiod},
+           given={Chao-Kuei},
+           giveni={C\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=7283ccc2ac9dae378091ec0b3172af11}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Yu-Hao},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=27381d367a6151367c9a29fbd8901603}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Chen-Yi},
+           giveni={C\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=f9aca420e95652090ff13540275678d4}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chi-Shun},
+           giveni={C\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=1ea0fdff17dffa9b07140bc522a39498}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Chung-Hao},
+           giveni={C\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=644a8a3720d472551587d93fb98f518f}{%
+           family={Hung},
+           familyi={H\bibinitperiod},
+           given={Che-Lun},
+           giveni={C\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=3e0376cfbb1f2ee812b9f06b9cd01bde}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yi-Ju},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{cf9715194f51cab9f0864e59827c59c3}
+      \strng{fullhash}{12c059aede000f7184fda2360ffcad66}
+      \strng{fullhashraw}{12c059aede000f7184fda2360ffcad66}
+      \strng{bibnamehash}{86bc2a3a0a9d03625c8461bcbb61674a}
+      \strng{authorbibnamehash}{86bc2a3a0a9d03625c8461bcbb61674a}
+      \strng{authornamehash}{cf9715194f51cab9f0864e59827c59c3}
+      \strng{authorfullhash}{12c059aede000f7184fda2360ffcad66}
+      \strng{authorfullhashraw}{12c059aede000f7184fda2360ffcad66}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{Deep convolutional neural network with fusion strategy for skin cancer recognition: model development and validation}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{17087}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-023-42693-y
+      \endverb
+    \endentry
+    \entry{Zhu2024}{article}{}{}
+      \name{author}{21}{}{%
+        {{hash=bf4e2115189a7cd5aff49482e7b0c8f7}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={An-Qi},
+           giveni={A\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=1b91ed439957c72ebefb56f65a235ae9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Qiao},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=138d7d261029c5531e9932c7e845556d}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Yi-Lei},
+           giveni={Y\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=8d1828f2acd630a4f3f0e020e3495d8f}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Wei-Wei},
+           giveni={W\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=57c3545183078dff4f017ca6348412b3}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c3cf09a2cec5767e7bacff05c982d646}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Tian-Tian},
+           giveni={T\bibinithyphendelim T\bibinitperiod}}}%
+        {{hash=49a19e08791a3dc09c932ff975949361}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8be401d86c52c2ca35455449ed40cd25}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ya-Qin},
+           giveni={Y\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=d70ceca0bd9948a1a05042ca9ff3ccb1}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yi-Kang},
+           giveni={Y\bibinithyphendelim K\bibinitperiod}}}%
+        {{hash=9c908a117d77ac205680d0d26c322ea2}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xue-Wen},
+           giveni={X\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=a37645065375ca5404179b5b049ef587}{%
+           family={Lai},
+           familyi={L\bibinitperiod},
+           given={Yong-Xian},
+           giveni={Y\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=99b8d229c5f1cef10f00918d5c9aa162}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Na},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4918bec097c3ae0a44e199ffec411ba4}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yu-Chong},
+           giveni={Y\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=731e5be61761effb0cbb1351a81409c5}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Jing-Liang},
+           giveni={J\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=efb45cdb96cd722ee2f75fc9433c2520}{%
+           family={Mou},
+           familyi={M\bibinitperiod},
+           given={Li-Chao},
+           giveni={L\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=796de51b647330d71c64dcf8a90eb537}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Yu-Jing},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=8a7952908ecf08be5668e110e3e53ee8}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ye-Qiang},
+           giveni={Y\bibinithyphendelim Q\bibinitperiod}}}%
+        {{hash=95e0d3896735dcc615e6990b83f6c207}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Li-Ping},
+           giveni={L\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=055d758bc362791e51f1d14ce00c0675}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Xiao-Xiang},
+           giveni={X\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=78a747b19197b9610f972f5167f8ba05}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Hui-Xiong},
+           giveni={H\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=6409a811dad41d05d78deb1f2147b8f6}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Le-Hang},
+           giveni={L\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6e5d7aed525ee092a546c1cbd2481f0}
+      \strng{fullhash}{ba5a9d21821e138d86a8bb9a52c972c7}
+      \strng{fullhashraw}{ba5a9d21821e138d86a8bb9a52c972c7}
+      \strng{bibnamehash}{7e01b3f8acad13254baefbd33801584e}
+      \strng{authorbibnamehash}{7e01b3f8acad13254baefbd33801584e}
+      \strng{authornamehash}{b6e5d7aed525ee092a546c1cbd2481f0}
+      \strng{authorfullhash}{ba5a9d21821e138d86a8bb9a52c972c7}
+      \strng{authorfullhashraw}{ba5a9d21821e138d86a8bb9a52c972c7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{eClinicalMedicine}
+      \field{month}{1}
+      \field{title}{A deep learning fusion network trained with clinical and high-frequency ultrasound images in the multi-classification of skin diseases in comparison with dermatologists: a prospective and multicenter study}
+      \field{volume}{67}
+      \field{year}{2024}
+      \field{pages}{102391}
+      \range{pages}{1}
+    \endentry
+    \entry{GOYAL2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=32641b728c017580bf8c2dad87d45958}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Manu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cc406ecc0e6c4747e1af0869582c6681}{%
+           family={Knackstedt},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c76375d84e621f24143e843378f7b021}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Shaofeng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=690b19d59bf8aaeffbfd4223b1a06e51}{%
+           family={Hassanpour},
+           familyi={H\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba50a636a1fbec65bc4d3f5c57be9b77}
+      \strng{fullhash}{bff9fb33f4e593dd074dd6f75710e6d2}
+      \strng{fullhashraw}{bff9fb33f4e593dd074dd6f75710e6d2}
+      \strng{bibnamehash}{bff9fb33f4e593dd074dd6f75710e6d2}
+      \strng{authorbibnamehash}{bff9fb33f4e593dd074dd6f75710e6d2}
+      \strng{authornamehash}{ba50a636a1fbec65bc4d3f5c57be9b77}
+      \strng{authorfullhash}{bff9fb33f4e593dd074dd6f75710e6d2}
+      \strng{authorfullhashraw}{bff9fb33f4e593dd074dd6f75710e6d2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers in Biology and Medicine}
+      \field{month}{12}
+      \field{title}{Artificial intelligence-based image classification methods for diagnosis of skin cancer: Challenges and opportunities}
+      \field{volume}{127}
+      \field{year}{2020}
+      \field{pages}{104065}
+      \range{pages}{1}
+    \endentry
+    \entry{Xiao2025}{article}{}{}
+      \name{author}{12}{}{%
+        {{hash=5c4f00fab045f3046757a88db1f6e23e}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Chunlun},
+           giveni={C\bibinitperiod}}}%
+        {{hash=36f77ac9aa8fb4c1a96712a9d79c777e}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Anqi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3ce08f94103d90bb42db49fa29c70c75}{%
+           family={Xia},
+           familyi={X\bibinitperiod},
+           given={Chunmei},
+           giveni={C\bibinitperiod}}}%
+        {{hash=be90ee7ed4febb45f5a394d533008240}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Zifeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=dbd33aa8e05cf36331160f79a18563b7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yuanlin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9c8e131b5876033497519ded0c324792}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4b929240ede3a0869a5e3951c6ac1af1}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Weiwei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=00177670746010a11da41eb730d5060d}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lifan},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6d29120ecdceaf72899342dc40cae69d}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=431fe86ed74242ae4c0b142ef1b75ec1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Tianfu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=25a17b75243863a248c833b98b09561c}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Lehang},
+           giveni={L\bibinitperiod}}}%
+        {{hash=48f8693d0195c3958e1fee1aa8021bf9}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Baiying},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{80febba91227ea7bf3c302041eccdd07}
+      \strng{fullhash}{fa3477393e73ac1dcf84d7711af53944}
+      \strng{fullhashraw}{fa3477393e73ac1dcf84d7711af53944}
+      \strng{bibnamehash}{82872fe9b7800158995e35008bc6eb25}
+      \strng{authorbibnamehash}{82872fe9b7800158995e35008bc6eb25}
+      \strng{authornamehash}{80febba91227ea7bf3c302041eccdd07}
+      \strng{authorfullhash}{fa3477393e73ac1dcf84d7711af53944}
+      \strng{authorfullhashraw}{fa3477393e73ac1dcf84d7711af53944}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Attention-Guided Learning With Feature Reconstruction for Skin Lesion Diagnosis Using Clinical and Ultrasound Images}
+      \field{volume}{44}
+      \field{year}{2025}
+      \field{pages}{543\bibrangedash 555}
+      \range{pages}{13}
+    \endentry
+    \entry{daSilva2026}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=897d670c1f68caba13544bbd946aa6f3}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Isabela\bibnamedelimb Rocha\bibnamedelima Veiga},
+           giveni={I\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim V\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=b426c75321d633d296816639b1887150}{%
+           family={Jardim},
+           familyi={J\bibinitperiod},
+           given={André\bibnamedelima Gonçalves},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=538e6a8cf78903c6b53f68a3658db93f}{%
+           family={Faés},
+           familyi={F\bibinitperiod},
+           given={Giulia\bibnamedelimb Rita\bibnamedelimb de\bibnamedelima Souza},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b2069264dff037fe27aef0d657c97dfe}{%
+           family={Alva},
+           familyi={A\bibinitperiod},
+           given={Thatiane\bibnamedelimb Alves\bibnamedelima Pianoschi},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=51c53b985d2b52a02f3bfa38e3428e41}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Carla\bibnamedelimb Diniz\bibnamedelima Lopes},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=9c51d766e15040aac7df71f0df9f5de8}{%
+           family={Botelho},
+           familyi={B\bibinitperiod},
+           given={Viviane\bibnamedelima Rodrigues},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ede95c3869ab5b7d92080155f9b6f6b}
+      \strng{fullhash}{80bd3be7427f8e1fc0b4fe8a6e062515}
+      \strng{fullhashraw}{80bd3be7427f8e1fc0b4fe8a6e062515}
+      \strng{bibnamehash}{80bd3be7427f8e1fc0b4fe8a6e062515}
+      \strng{authorbibnamehash}{80bd3be7427f8e1fc0b4fe8a6e062515}
+      \strng{authornamehash}{5ede95c3869ab5b7d92080155f9b6f6b}
+      \strng{authorfullhash}{80bd3be7427f8e1fc0b4fe8a6e062515}
+      \strng{authorfullhashraw}{80bd3be7427f8e1fc0b4fe8a6e062515}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Ultrasound in Medicine}
+      \field{number}{5}
+      \field{title}{Deep Learning-Based Skin Lesion Classification: A CNN Approach on High-Frequency Ultrasound Imaging}
+      \field{volume}{45}
+      \field{year}{2026}
+      \field{pages}{925\bibrangedash 936}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/jum.70125
+      \endverb
+    \endentry
+    \entry{Czajkowska2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=ddf6f306c5d6461937fe5ea2df851b84}{%
+           family={Czajkowska},
+           familyi={C\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e6494e390463769ed32a686eea2aa75e}{%
+           family={Badura},
+           familyi={B\bibinitperiod},
+           given={Pawel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af8241b238c7858dc8b9db34d051efe1}{%
+           family={Korzekwa},
+           familyi={K\bibinitperiod},
+           given={Szymon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=68063edc93695717437f2f98c887160a}{%
+           family={Płatkowska-Szczerek},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7a70326f5c497ee39e3360da0f8b47d5}{%
+           family={Słowińska},
+           familyi={S\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{58dbc6f2d855e7408405572f9df072d9}
+      \strng{fullhash}{02a2168c23fb9b4d2effe85700cabcf2}
+      \strng{fullhashraw}{02a2168c23fb9b4d2effe85700cabcf2}
+      \strng{bibnamehash}{02a2168c23fb9b4d2effe85700cabcf2}
+      \strng{authorbibnamehash}{02a2168c23fb9b4d2effe85700cabcf2}
+      \strng{authornamehash}{58dbc6f2d855e7408405572f9df072d9}
+      \strng{authorfullhash}{02a2168c23fb9b4d2effe85700cabcf2}
+      \strng{authorfullhashraw}{02a2168c23fb9b4d2effe85700cabcf2}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{month}{8}
+      \field{number}{17}
+      \field{title}{Deep Learning-Based High-Frequency Ultrasound Skin Image Classification with Multicriteria Model Evaluation}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{pages}{5846}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s21175846
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.3390/s21175846
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.3390/s21175846
+      \endverb
+    \endentry
+    \entry{Qin2025}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=525e0586cc5cf5d7c0ac140ef714b6aa}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Yishuo},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=52ac07f77d29bca8b47bcf4683faa0cc}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhirou},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=f85fafeb8c9f1828be62d147efc9ec09}{%
+           family={Qu},
+           familyi={Q\bibinitperiod},
+           given={Xiaomeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=9e73bc01610cf5c214895f05456ae613}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Weijie},
+           giveni={W\bibinitperiod}}}%
+        {{hash=dd407414e5967ae3a059bb7d22bf79c6}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yumei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b3898fe9b09204d7f40a89b0e756c620}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yanli},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{53917b4c1108d9fa87e19249719feea6}
+      \strng{fullhash}{096f27d11657e8929738943be50a2544}
+      \strng{fullhashraw}{096f27d11657e8929738943be50a2544}
+      \strng{bibnamehash}{096f27d11657e8929738943be50a2544}
+      \strng{authorbibnamehash}{096f27d11657e8929738943be50a2544}
+      \strng{authornamehash}{53917b4c1108d9fa87e19249719feea6}
+      \strng{authorfullhash}{096f27d11657e8929738943be50a2544}
+      \strng{authorfullhashraw}{096f27d11657e8929738943be50a2544}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Ultrasonography}
+      \field{number}{3}
+      \field{title}{A machine learning model based on high-frequency ultrasound for differentiating benign and malignant skin tumors}
+      \field{volume}{27}
+      \field{year}{2025}
+      \field{pages}{284\bibrangedash 293}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.11152/mu-4504
+      \endverb
+    \endentry
+    \entry{LaverdeSaad2021}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=a9d788e8e6b7b3783b893bd160cd4220}{%
+           family={Laverde‐Saad},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=39dbb77482f4662084acf7aa87282f4d}{%
+           family={Jfri},
+           familyi={J\bibinitperiod},
+           given={Abdulhadi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=05d3f05fe91ddfaa0ba79d1d80604ea4}{%
+           family={García},
+           familyi={G\bibinitperiod},
+           given={Rubén},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e74020ab2f1e12aedb3543d8302b1a74}{%
+           family={Salgüero},
+           familyi={S\bibinitperiod},
+           given={Irene},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8842181f9f2048b4f8fdd36b8b5b19ed}{%
+           family={Martínez},
+           familyi={M\bibinitperiod},
+           given={Constanza},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0bd4b5295e39cb15ea17d79eb7a090c8}{%
+           family={Cembrero},
+           familyi={C\bibinitperiod},
+           given={Hirune},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fd09ad62ed7567b5b9a60b3fb56c3acc}{%
+           family={Roustán},
+           familyi={R\bibinitperiod},
+           given={Gastón},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2242903767449ab7684b9b7ef96d375a}{%
+           family={Alfageme},
+           familyi={A\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{585ffc94e25c05dc0e830587d72c6490}
+      \strng{fullhash}{8fdaa4667bb0b52e64d132263d71f289}
+      \strng{fullhashraw}{8fdaa4667bb0b52e64d132263d71f289}
+      \strng{bibnamehash}{4f4e7ba1d8ca9baeb967297eceefaf90}
+      \strng{authorbibnamehash}{4f4e7ba1d8ca9baeb967297eceefaf90}
+      \strng{authornamehash}{585ffc94e25c05dc0e830587d72c6490}
+      \strng{authorfullhash}{8fdaa4667bb0b52e64d132263d71f289}
+      \strng{authorfullhashraw}{8fdaa4667bb0b52e64d132263d71f289}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Skin Research and Technology}
+      \field{month}{8}
+      \field{number}{1}
+      \field{title}{Discriminative deep learning based benignity/malignancy diagnosis of dermatologic ultrasound skin lesions with pretrained artificial intelligence architecture}
+      \field{volume}{28}
+      \field{year}{2021}
+      \field{pages}{35\bibrangedash 39}
+      \range{pages}{5}
+    \endentry
+    \entry{Lambin2017}{article}{}{}
+      \name{author}{20}{}{%
+        {{hash=eb9d41fd6faff070aeef49376ea8b2dd}{%
+           family={Lambin},
+           familyi={L\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3dfdef66ca7812ffae5a1e7d31d6d4d4}{%
+           family={Leijenaar},
+           familyi={L\bibinitperiod},
+           given={Ralph\bibnamedelima T.H.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=3945ad01e1c1001b0600af636a403f3c}{%
+           family={Deist},
+           familyi={D\bibinitperiod},
+           given={Timo\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a76bf5fac8b7b975b3df7811070d7386}{%
+           family={Peerlings},
+           familyi={P\bibinitperiod},
+           given={Jurgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cfef01058e0381eaabad173f342c9df3}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Evelyn\bibnamedelima E.C.},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=ecf9132c9261ba1b16e88d8cf4213342}{%
+           family={Timmeren},
+           familyi={T\bibinitperiod},
+           given={Janita},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=09d486aef7e41fabb96fad167a7e68d2}{%
+           family={Sanduleanu},
+           familyi={S\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9d4b01489c4b4519551d713d25ebb245}{%
+           family={Larue},
+           familyi={L\bibinitperiod},
+           given={Ruben\bibnamedelima T.H.M.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=4667adbb8353b234d6edb1071ff18801}{%
+           family={Even},
+           familyi={E\bibinitperiod},
+           given={Aniek\bibnamedelima J.G.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c81e61017301c6ea86b5104f166a099b}{%
+           family={Jochems},
+           familyi={J\bibinitperiod},
+           given={Arthur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=063fbd861f2b1c951da1509f6d73ed2d}{%
+           family={Wijk},
+           familyi={W\bibinitperiod},
+           given={Yvonka},
+           giveni={Y\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=2e2c06713d760c3e54b21376e6df778b}{%
+           family={Woodruff},
+           familyi={W\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d9e24a7df7bf94997719ef58ae9278a5}{%
+           family={Soest},
+           familyi={S\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=d8a70f483c2b03f25d5e88f06461a7fb}{%
+           family={Lustberg},
+           familyi={L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2679701a8c48835c60ef050c64fdf01a}{%
+           family={Roelofs},
+           familyi={R\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod}}}%
+        {{hash=c0b4d137798151e824df27fa830f2a36}{%
+           family={Elmpt},
+           familyi={E\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=c4f9f61227150f4928a25181ba20ac11}{%
+           family={Dekker},
+           familyi={D\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c84b507d9ee8413707ee39a2e2152cee}{%
+           family={Mottaghy},
+           familyi={M\bibinitperiod},
+           given={Felix\bibnamedelima M.},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5c67add79149d6d9ba01462fa6b07a99}{%
+           family={Wildberger},
+           familyi={W\bibinitperiod},
+           given={Joachim\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=30c9d20a85dc60a36ec7a39af6a940c8}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{99f325cffa188217bf3cbb30b5fd7a3c}
+      \strng{fullhash}{1cf19a441c5926774e9efe1d51344bb4}
+      \strng{fullhashraw}{1cf19a441c5926774e9efe1d51344bb4}
+      \strng{bibnamehash}{640fc4a6b35147559f1b00089df8b61b}
+      \strng{authorbibnamehash}{640fc4a6b35147559f1b00089df8b61b}
+      \strng{authornamehash}{99f325cffa188217bf3cbb30b5fd7a3c}
+      \strng{authorfullhash}{1cf19a441c5926774e9efe1d51344bb4}
+      \strng{authorfullhashraw}{1cf19a441c5926774e9efe1d51344bb4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Clinical Oncology}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{Radiomics: the bridge between medical imaging and personalized medicine}
+      \field{volume}{14}
+      \field{year}{2017}
+      \field{pages}{749\bibrangedash 762}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1038/nrclinonc.2017.141
+      \endverb
+    \endentry
+    \entry{Surkov2024}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=f85b5295173296553c436c202845e5a0}{%
+           family={Surkov},
+           familyi={S\bibinitperiod},
+           given={Yuriy\bibnamedelima I.},
+           giveni={Y\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=43017223f548189903f7e0e8fcf906e0}{%
+           family={Serebryakova},
+           familyi={S\bibinitperiod},
+           given={Isabella\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b85c46c804d97c4c527b66d25e5d612f}{%
+           family={Kuzinova},
+           familyi={K\bibinitperiod},
+           given={Yana\bibnamedelima K.},
+           giveni={Y\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=dfb807090f0086da41cad8c8db726625}{%
+           family={Konopatskova},
+           familyi={K\bibinitperiod},
+           given={Olga\bibnamedelima M.},
+           giveni={O\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4b8d3d0facf5264cf015f227b490eb18}{%
+           family={Safronov},
+           familyi={S\bibinitperiod},
+           given={Dmitriy\bibnamedelima V.},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=c18d98247bc9015c1b256fc65b893f30}{%
+           family={Kapralov},
+           familyi={K\bibinitperiod},
+           given={Sergey\bibnamedelima V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=a37118d7ea97154aea31c3625ac1507e}{%
+           family={Genina},
+           familyi={G\bibinitperiod},
+           given={Elina\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4449b664f02903fcc87cd67fdd57d742}{%
+           family={Tuchin},
+           familyi={T\bibinitperiod},
+           given={Valery\bibnamedelima V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{47c22cec9127542252d44b20c089e41f}
+      \strng{fullhash}{c08989577fab8befa692d40a8a74a294}
+      \strng{fullhashraw}{c08989577fab8befa692d40a8a74a294}
+      \strng{bibnamehash}{c84c7eb3e8503bfe00b5e6327d3957dd}
+      \strng{authorbibnamehash}{c84c7eb3e8503bfe00b5e6327d3957dd}
+      \strng{authornamehash}{47c22cec9127542252d44b20c089e41f}
+      \strng{authorfullhash}{c08989577fab8befa692d40a8a74a294}
+      \strng{authorfullhashraw}{c08989577fab8befa692d40a8a74a294}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diagnostics}
+      \field{number}{2}
+      \field{title}{Multimodal Method for Differentiating Various Clinical Forms of Basal Cell Carcinoma and Benign Neoplasms In Vivo}
+      \field{volume}{14}
+      \field{year}{2024}
+      \field{pages}{202}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/diagnostics14020202
+      \endverb
+    \endentry
+    \entry{Bibi2026}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=51a4ccebef49062526f842548778aa03}{%
+           family={Bibi},
+           familyi={B\bibinitperiod},
+           given={Farhana},
+           giveni={F\bibinitperiod}}}%
+        {{hash=78282f1d8b77c1c11a9a39da28d06e45}{%
+           family={Abbas},
+           familyi={A\bibinitperiod},
+           given={Qaisar},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=34a6e66a48fd80d5b6363d0c6a6d63fe}{%
+           family={Naqi},
+           familyi={N\bibinitperiod},
+           given={Syed\bibnamedelima Muhammad},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{72d719d9518d97ce7815c4566b90e7a5}
+      \strng{fullhash}{72d719d9518d97ce7815c4566b90e7a5}
+      \strng{fullhashraw}{72d719d9518d97ce7815c4566b90e7a5}
+      \strng{bibnamehash}{72d719d9518d97ce7815c4566b90e7a5}
+      \strng{authorbibnamehash}{72d719d9518d97ce7815c4566b90e7a5}
+      \strng{authornamehash}{72d719d9518d97ce7815c4566b90e7a5}
+      \strng{authorfullhash}{72d719d9518d97ce7815c4566b90e7a5}
+      \strng{authorfullhashraw}{72d719d9518d97ce7815c4566b90e7a5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{FoMoSkinNet: A Dual-Stream Deep Learning Model for Early Detection and Classification of Non-Dermoscopic Skin Lesions via Focal Modulation and Local Feature Integration}
+      \field{volume}{14}
+      \field{year}{2026}
+      \field{pages}{41998\bibrangedash 42014}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2026.3674219
+      \endverb
+    \endentry
+    \entry{Czajkowska2021-2}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=ddf6f306c5d6461937fe5ea2df851b84}{%
+           family={Czajkowska},
+           familyi={C\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e6494e390463769ed32a686eea2aa75e}{%
+           family={Badura},
+           familyi={B\bibinitperiod},
+           given={Pawel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af8241b238c7858dc8b9db34d051efe1}{%
+           family={Korzekwa},
+           familyi={K\bibinitperiod},
+           given={Szymon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=68063edc93695717437f2f98c887160a}{%
+           family={Płatkowska-Szczerek},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{58dbc6f2d855e7408405572f9df072d9}
+      \strng{fullhash}{5169981b7c349e1c4aeee30f2a2e1b9f}
+      \strng{fullhashraw}{5169981b7c349e1c4aeee30f2a2e1b9f}
+      \strng{bibnamehash}{5169981b7c349e1c4aeee30f2a2e1b9f}
+      \strng{authorbibnamehash}{5169981b7c349e1c4aeee30f2a2e1b9f}
+      \strng{authornamehash}{58dbc6f2d855e7408405572f9df072d9}
+      \strng{authorfullhash}{5169981b7c349e1c4aeee30f2a2e1b9f}
+      \strng{authorfullhashraw}{5169981b7c349e1c4aeee30f2a2e1b9f}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ultrasonics}
+      \field{title}{Deep Learning Approach to Skin Layers Segmentation in Inflammatory Dermatoses}
+      \field{volume}{114}
+      \field{year}{2021}
+      \field{pages}{106412}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ultras.2021.106412
+      \endverb
+    \endentry
+    \entry{BANCO2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9d85a3148e58724206e367c8ec24cd9b}{%
+           family={Alfageme},
+           familyi={A\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d85a3148e58724206e367c8ec24cd9b}
+      \strng{fullhash}{9d85a3148e58724206e367c8ec24cd9b}
+      \strng{fullhashraw}{9d85a3148e58724206e367c8ec24cd9b}
+      \strng{bibnamehash}{9d85a3148e58724206e367c8ec24cd9b}
+      \strng{authorbibnamehash}{9d85a3148e58724206e367c8ec24cd9b}
+      \strng{authornamehash}{9d85a3148e58724206e367c8ec24cd9b}
+      \strng{authorfullhash}{9d85a3148e58724206e367c8ec24cd9b}
+      \strng{authorfullhashraw}{9d85a3148e58724206e367c8ec24cd9b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Dermatologic Ultrasound Images for classification}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.kaggle.com/datasets/alfageme/dermatologic-ultrasound-images?select=201database.csv
+      \endverb
+      \verb{url}
+      \verb https://www.kaggle.com/datasets/alfageme/dermatologic-ultrasound-images?select=201database.csv
+      \endverb
+    \endentry
+    \entry{Wortsman2016}{article}{}{}
+      \name{author}{13}{}{%
+        {{hash=4c82eacb4d298ed347bec96e0eb0ae34}{%
+           family={Wortsman},
+           familyi={W\bibinitperiod},
+           given={Ximena},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2242903767449ab7684b9b7ef96d375a}{%
+           family={Alfageme},
+           familyi={A\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f614e2173f88fd5e3f1d75954ced3629}{%
+           family={Roustan},
+           familyi={R\bibinitperiod},
+           given={Gaston},
+           giveni={G\bibinitperiod}}}%
+        {{hash=94afb589e3eb2f69861ff9ddff76ca4e}{%
+           family={Arias-Santiago},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={Salvador},
+           giveni={S\bibinitperiod}}}%
+        {{hash=be73fb31d100e9ad1620fab90dd99e6a}{%
+           family={Martorell},
+           familyi={M\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4fef50f73feb8aec045b9d3872e390cb}{%
+           family={Catalano},
+           familyi={C\bibinitperiod},
+           given={Orlando},
+           giveni={O\bibinitperiod}}}%
+        {{hash=dee68d4de732d3aa24902bb86d82ee7b}{%
+           family={Scotto\bibnamedelimb di\bibnamedelima Santolo},
+           familyi={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=27c1e64f87e4d1bf75ecfca72cfdf078}{%
+           family={Zarchi},
+           familyi={Z\bibinitperiod},
+           given={Kian},
+           giveni={K\bibinitperiod}}}%
+        {{hash=06963898ce7fb446086cf3aacbc6110c}{%
+           family={Bouer},
+           familyi={B\bibinitperiod},
+           given={Marcio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1beea6033107365c4185d9da3841b650}{%
+           family={Gonzalez},
+           familyi={G\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f190d3dfaba6cbba3d13dfdf2cdbc3d9}{%
+           family={Bard},
+           familyi={B\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8f6c9987b8f4900e46e04b374c4d75c7}{%
+           family={Mandava},
+           familyi={M\bibinitperiod},
+           given={Anitha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=acbf64439071645ca94b3bb8f027e27b}{%
+           family={Gaitini},
+           familyi={G\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{88491cc2681a8f24716f422d86f5cb81}
+      \strng{fullhash}{ccff90aa8985497b3b642ae889c3caff}
+      \strng{fullhashraw}{ccff90aa8985497b3b642ae889c3caff}
+      \strng{bibnamehash}{4cbf780af92519e70d341f4724581622}
+      \strng{authorbibnamehash}{4cbf780af92519e70d341f4724581622}
+      \strng{authornamehash}{88491cc2681a8f24716f422d86f5cb81}
+      \strng{authorfullhash}{ccff90aa8985497b3b642ae889c3caff}
+      \strng{authorfullhashraw}{ccff90aa8985497b3b642ae889c3caff}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1550-9613}
+      \field{journaltitle}{Journal of Ultrasound in Medicine}
+      \field{month}{2}
+      \field{number}{3}
+      \field{title}{Guidelines for Performing Dermatologic Ultrasound Examinations by the DERMUS Group}
+      \field{volume}{35}
+      \field{year}{2016}
+      \field{pages}{577\bibrangedash 580}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.7863/ultra.15.06046
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.7863/ultra.15.06046
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.7863/ultra.15.06046
+      \endverb
+    \endentry
+    \entry{Faita2022}{article}{}{}
+      \name{author}{9}{}{%
+        {{hash=d01a94e2181d88d6849665993115899d}{%
+           family={Faita},
+           familyi={F\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b626187c11b4b0f035999353ee606448}{%
+           family={Oranges},
+           familyi={O\bibinitperiod},
+           given={Teresa},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e6161950725c8c09841c04223ded3c17}{%
+           family={Di\bibnamedelima Lascio},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=418194fc1191759b20ddf6e348a539e5}{%
+           family={Ciompi},
+           familyi={C\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=853b3bfa93774c1e5faeafa86c84f59f}{%
+           family={Vitali},
+           familyi={V\bibinitperiod},
+           given={Saverio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=311d7e5dd4c14bdc64e474360a75b06d}{%
+           family={Aringhieri},
+           familyi={A\bibinitperiod},
+           given={Giacomo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e7403d0eb173cf208bc39b08be645d42}{%
+           family={Janowska},
+           familyi={J\bibinitperiod},
+           given={Agata},
+           giveni={A\bibinitperiod}}}%
+        {{hash=286a4ba58d2d60a9200082fb456b9e44}{%
+           family={Romanelli},
+           familyi={R\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b34e55072f510bd77645b78b52a3717d}{%
+           family={Dini},
+           familyi={D\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d6857a5ea59723c258d7a5c896a4300}
+      \strng{fullhash}{bc200767dd23ac58c383543ce6e42afc}
+      \strng{fullhashraw}{bc200767dd23ac58c383543ce6e42afc}
+      \strng{bibnamehash}{67113d3ffab313ddce034f3e41ae0470}
+      \strng{authorbibnamehash}{67113d3ffab313ddce034f3e41ae0470}
+      \strng{authornamehash}{7d6857a5ea59723c258d7a5c896a4300}
+      \strng{authorfullhash}{bc200767dd23ac58c383543ce6e42afc}
+      \strng{authorfullhashraw}{bc200767dd23ac58c383543ce6e42afc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Experimental Dermatology}
+      \field{number}{1}
+      \field{title}{Ultra-High-Frequency Ultrasound and Machine Learning Approaches for the Differential Diagnosis of Melanocytic Lesions}
+      \field{volume}{31}
+      \field{year}{2022}
+      \field{pages}{94\bibrangedash 98}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1111/exd.14330
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

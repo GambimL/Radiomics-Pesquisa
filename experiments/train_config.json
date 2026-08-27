@@ -1,0 +1,28 @@
+{
+  "k_features": 10,
+  "model_names": [
+    "Simple Tree",
+    "Medium Tree",
+    "Complex Tree",
+    "Linear Discriminant Analysis",
+    "Quadratic Discriminant Analysis",
+    "Logistic Regression",
+    "Linear SVM",
+    "Quadratic SVM",
+    "Cubic SVM",
+    "Fine Gaussian SVM",
+    "Medium Gaussian SVM",
+    "Coarse Gaussian SVM",
+    "Fine KNN",
+    "Medium KNN",
+    "Coarse KNN",
+    "Cosine KNN",
+    "Weighted KNN",
+    "Boosted Trees",
+    "Bagged Trees",
+    "Subspace Discriminant",
+    "Subspace KNN",
+    "RUSBoosted Trees"
+  ],
+  "val_size": 0.2
+}
