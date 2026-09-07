@@ -68,9 +68,9 @@ python scripts/extract_radiomics_features.py \
     --output-dir data/images/datasets
 ```
 
-### merge_radiomics_modalities.py
+### Merge Radiomics Modalities
 
-Combina radiomics_bw.csv e radiomics_doppler.csv em um único CSV, por image_id + split. Features de BW recebem prefixo bw__ e de Doppler doppler__, preservando as colunas de metadados sem duplicação.
+Combina o csv de features radiomicas das imagens bw e doppler, por image_id + split. Features de BW recebem prefixo bw__ e de Doppler doppler__, preservando as colunas de metadados sem duplicação.
 
 Principais flags: --input-bw, --input-doppler, --output, --meta-cols (default image_id label target split).
 
@@ -81,7 +81,7 @@ python scripts/merge_radiomics_modalities.py \
     --output data/images/datasets/radiomics_bw_doppler.csv
 ```
 
-### train_kfold.py
+### Train Kfold
 
 Treino + seleção de modelo via k-fold estratificado. Para cada combinação (K de features × modelo × dataset), roda k-fold, agrega métricas por fold e seleciona o(s) top-N modelo(s) por AUC médio em cada dataset. Passar múltiplos valores em --k-values roda uma varredura (k-sweep), elegendo um vencedor por K.
 
@@ -92,11 +92,11 @@ Saídas em --output-dir (sufixo _k{K} quando mais de um K é passado): task3_fol
 ```bash
 # SelectKBest com K=20
 python scripts/train_kfold.py --feature-selection kbest --k-values 20 \
-    --output-dir experiments/trilha_a
+    --output-dir experiments/teste_2
 
 # sem seleção de features (todas as features)
 python scripts/train_kfold.py --feature-selection none \
-    --output-dir experiments/trilha_b
+    --output-dir experiments/teste_1
 
 # k-sweep
 python scripts/train_kfold.py --feature-selection kbest \
@@ -106,10 +106,10 @@ python scripts/train_kfold.py --feature-selection kbest \
 # restringir modelos e datasets
 python scripts/train_kfold.py --feature-selection kbest --k-values 20 \
     --models "Linear SVM" "Weighted KNN" --datasets BW Doppler \
-    --output-dir experiments/trilha_a_subset
+    --output-dir experiments/subset
 ```
 
-### train_final.py
+### Train Final
 
 Lê o task5_top_models.csv (ou variante _k{K}) gerado por train_kfold.py para saber, por dataset, o modelo vencedor (assume rank==1). Para cada dataset: separa --val-size do trainval para calibrar o threshold de Youden, retreina o pipeline vencedor no trainval completo e avalia no val e no test set, nos thresholds 0.5 e Youden.
 
@@ -119,15 +119,15 @@ Saídas em --output-dir: test_results.csv, test_auc_barh.png, test_sens_spec_com
 
 ```bash
 python scripts/train_final.py --feature-selection kbest \
-    --top-models-csv experiments/trilha_a/task5_top_models.csv \
+    --top-models-csv experiments/trilha_a/top_models.csv \
     --output-dir experiments/trilha_a_final
 
 python scripts/train_final.py --feature-selection none \
-    --top-models-csv experiments/trilha_b/task5_top_models.csv \
+    --top-models-csv experiments/trilha_b/top_models.csv \
     --output-dir experiments/trilha_b_final
 ```
 
-### analyze_kbest_features.py
+### Analyze Kbest Features
 
 Análise exploratória de seleção de features, independente do pipeline de treino. Para cada dataset radiômico (BW, Doppler, BW+Doppler), calcula os scores de todas as features via SelectKBest(k='all') sob dois critérios (F-Score/ANOVA e Mutual Information), usando apenas o split trainval.
 
