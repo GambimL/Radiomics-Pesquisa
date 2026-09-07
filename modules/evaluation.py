@@ -15,6 +15,8 @@ from sklearn.pipeline import Pipeline
 
 DS_COLORS = {'BW': '#5B8DB8', 'Doppler': '#4A9EA6', 'BW+Doppler': '#8B6FB0'}
 
+# Colunas de metadados/identificação (não são features de radiômica) — usadas para excluir
+# essas colunas ao selecionar apenas as colunas de features nos datasets
 META_COLS = ['image_id', 'label', 'target', 'dx', 'split', 'fold']
 
 DATASETS = {

@@ -1,2 +1,9 @@
 TCC_ERAMIA.pdf
 .vscode/
+.venv/
+__pycache__/
+*.pyc
+
+# Dados e Papers
+data/
+papers/
